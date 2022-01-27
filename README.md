@@ -1,2 +1,2 @@
 # restaurant2
-We will be copying the code of someone from odin project to learn the webpack workflow, once understood we will aply same workflow to my already built code
+Effectively learned the webpack workflow. This is my second attempt , hence the name of the repository. Overall it was hard understanding webpack at first but now I realize it's just 15-20 min of extra work and makes large projects significantly more managable
